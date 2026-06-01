@@ -8,3 +8,5 @@
   **Stack:** `TypeScript` `React` `Zustand` `Node.js` `Express` `PostgreSQL`  `Drizzle ORM` `Docker` `AWS`
  
 - [Privado](https://privado.abdullahtech.dev) - A Web-sockets based chat system with real-time duplex connection between multiple users.
+
+  **Stack:** `TypeScript` `Next.js` `Bun` `Zustand` `Node.js` `Express` `Web-sockets` `Socket IO` `Vercel`
