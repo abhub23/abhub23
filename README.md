@@ -1,4 +1,4 @@
-## Hi, I'm Abdullah 👋
+## Hi, I'm Abdullah
 
 I'm a Full-stack Software Engineer with 2+ years of experience building scalable web applications using TypeScript, JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy designing performant backend systems, building real-time applications, and integrating AI-powered solutions. Most of my work revolves around creating reliable, production-ready software with a focus on scalability, clean architecture, and developer experience.
 
@@ -15,6 +15,6 @@ I'm a Full-stack Software Engineer with 2+ years of experience building scalable
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-mukri)
-- [X (Twitter)](https://x.com/abdullahtwt_23)
+- [X (Twitter)](https://x.com/abdullah_twt23)
 - [Portfolio](https://abdullahtech.dev)
 - [Email](mailto:abdullahmukri25@gmail.com)
