@@ -5,9 +5,11 @@ I'm a Full-stack Software Engineer with 1.6 years of experience building scalabl
 ## Full-stack Projects
 
 - [Purge AI](https://purgeai.abdullahtech.dev) - AI powered GitHub PR (pull request) reviewer for large codebases.
+
   **Stack:** `TypeScript` `React` `Zustand` `Node.js` `Express` `PostgreSQL` `Drizzle ORM` `Docker` `AWS`
 
 - [Privado](https://privado.abdullahtech.dev) - A Web-sockets based chat system with real-time duplex connection between multiple users.
+
   **Stack:** `TypeScript` `Next.js` `Bun` `Zustand` `Node.js` `Express` `Web-sockets` `Socket IO` `Vercel`
 
 ## Connect with me
