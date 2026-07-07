@@ -14,7 +14,7 @@ I'm a Full-stack Software Engineer with 2+ years of experience building scalable
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- [X (Twitter)](https://x.com/YOUR_USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/abdullah-mukri)
+- [X (Twitter)](https://x.com/abdullahtwt_23)
 - [Portfolio](https://abdullahtech.dev)
-- [Email](mailto:YOUR_EMAIL@example.com)
+- [Email](mailto:abdullahmukri25@gmail.com)
