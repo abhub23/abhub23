@@ -15,6 +15,6 @@ I'm a Full-stack Software Engineer with 1.6 years of experience building scalabl
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-mukri)
-- [X (Twitter)](https://x.com/abdullah_twt23)
+- [X / Twitter](https://x.com/abdullah_twt23)
 - [Portfolio](https://abdullahtech.dev)
 - [Email](mailto:abdullahmukri25@gmail.com)
