@@ -26,7 +26,7 @@ I'm a Full-stack Software Engineer with 1.6 years of experience building scalabl
 
 ## Connect with me
 
-<a href="https://abdullahtech.dev"><img src="https://img.shields.io/badge/abdullahtech.dev-000?style=flat&logo=safari&logoColor=white" height="34" width="190"/></a>
-<a href="mailto:abdullahmukri25@gmail.com"><img src="https://img.shields.io/badge/abdullahmukri25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="34" width="280"/></a>
-<a href="https://x.com/abdullah_twt23"><img src="https://img.shields.io/badge/@abdullah__twt23-000?style=flat&logo=x&logoColor=white" height="34" width="170"/></a>
-<a href="https://www.linkedin.com/in/abdullah-mukri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="34" width="100"/></a>
+<a href="https://abdullahtech.dev"><img src="https://img.shields.io/badge/abdullahtech.dev-000?style=flat&logo=safari&logoColor=white" height="30" width="190"/></a>
+<a href="mailto:abdullahmukri25@gmail.com"><img src="https://img.shields.io/badge/abdullahmukri25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="30" width="280"/></a>
+<a href="https://x.com/abdullah_twt23"><img src="https://img.shields.io/badge/@abdullah__twt23-000?style=flat&logo=x&logoColor=white" height="30" width="170"/></a>
+<a href="https://www.linkedin.com/in/abdullah-mukri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" width="90"/></a>
