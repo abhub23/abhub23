@@ -26,7 +26,7 @@ I'm a Full-stack Software Engineer with 1.6 years of experience building scalabl
 
 ## Connect with me
 
-[![Portfolio](https://img.shields.io/badge/abdullahtech.dev-000?style=flat&logo=safari&logoColor=white)](https://abdullahtech.dev)
-[![Email](https://img.shields.io/badge/abdullahmukri25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdullahmukri25@gmail.com)
-[![X](https://img.shields.io/badge/@abdullah__twt23-000?style=flat&logo=x&logoColor=white)](https://x.com/abdullah_twt23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mukri)
+[![Portfolio](https://img.shields.io/badge/abdullahtech.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://abdullahtech.dev)
+[![Email](https://img.shields.io/badge/abdullahmukri25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmukri25@gmail.com)
+[![X](https://img.shields.io/badge/@abdullah__twt23-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdullah_twt23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mukri)
