@@ -1,16 +1,15 @@
-## Hi, I'm Abdullah
+# Hi, I'm Abdullah
 
-I'm a Full stack Software Engineer with 1.6 years of experience building scalable web applications using TypeScript, JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy designing performant backend systems, building real-time applications, and integrating AI-powered solutions. Most of my work revolves around creating reliable, production-ready software with a focus on scalability, clean architecture, and developer experience.
+#### I'm a Full stack Software Engineer with 1.6 years of experience building scalable web applications using TypeScript, JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy designing performant backend systems, building real-time applications, and integrating AI-powered solutions. Most of my work revolves around creating reliable, production-ready software with a focus on scalability, clean architecture, and developer experience.
 
 ## Full-stack Projects
-- [Purge AI](https://purgeai.abdullahtech.dev) - AI powered GitHub PR (pull request) reviewer for large codebases.
-- [Privado](https://privado.abdullahtech.dev) - A Web-sockets based chat system with real-time duplex connection between multiple users.
+- #### [Purge AI](https://purgeai.abdullahtech.dev) - AI powered GitHub PR (pull request) reviewer for large codebases.
+- #### [Privado](https://privado.abdullahtech.dev) - A Web-sockets based chat system with real-time duplex connection between multiple users.
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat&logo=bun&logoColor=white)
