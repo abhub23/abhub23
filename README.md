@@ -1,4 +1,20 @@
-# Hi, I'm Abdullah
+<div align="center">
+
+### Abdullah Mukri
+<sup><i>Full Stack Software Engineer · TypeScript · React · Node.js</i></sup>
+
+<p>
+<samp>
+/ <a href="https://abdullahtech.dev">portfolio</a>
+/ <a href="https://x.com/abdullah_twt23">x</a>
+/ <a href="mailto:abdullahmukri25@gmail.com">email</a>
+/ <a href="https://www.linkedin.com/in/abdullah-mukri">linkedin</a> /
+</samp>
+</p>
+
+</div>
+
+---
 
 I'm a Full stack Software Engineer with 1.6 years of experience building scalable web applications using TypeScript, JavaScript, React, Next.js, Node.js, and PostgreSQL. I enjoy designing performant backend systems, building real-time applications, and integrating AI-powered solutions. Most of my work revolves around creating reliable, production-ready software with a focus on scalability, clean architecture, and developer experience.
 
@@ -22,7 +38,3 @@ I'm a Full stack Software Engineer with 1.6 years of experience building scalabl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-
-## Connect with me
-
-[<u>Portfolio</u>](https://abdullahtech.dev) &thinsp;/&thinsp; [<u>Email</u>](mailto:abdullahmukri25@gmail.com) &thinsp;/&thinsp; [<u>X</u>](https://x.com/abdullah_twt23) &thinsp;/&thinsp; [<u>LinkedIn</u>](https://www.linkedin.com/in/abdullah-mukri)
