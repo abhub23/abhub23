@@ -25,4 +25,4 @@ I'm a Full stack Software Engineer with 1.6 years of experience building scalabl
 
 ## Connect with me
 
-**[<u>Portfolio</u>](https://abdullahtech.dev)** | **[<u>Email</u>](mailto:abdullahmukri25@gmail.com)** | **[<u>X</u>](https://x.com/abdullah_twt23)** | **[<u>LinkedIn</u>](https://www.linkedin.com/in/abdullah-mukri)**
+[<u>Portfolio</u>](https://abdullahtech.dev) &thinsp;/&thinsp; [<u>Email</u>](mailto:abdullahmukri25@gmail.com) &thinsp;/&thinsp; [<u>X</u>](https://x.com/abdullah_twt23) &thinsp;/&thinsp; [<u>LinkedIn</u>](https://www.linkedin.com/in/abdullah-mukri)
