@@ -3,16 +3,14 @@
 ### Abdullah Mukri
 <sup><i>Full Stack Software Engineer · TypeScript · React · Node.js</i></sup>
 
-<p>
+<h3>
   <samp>
-    <big>
-      <a href="https://abdullahtech.dev">portfolio</a>
-      / <a href="https://x.com/abdullah_twt23">x</a>
-      / <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahmukri25@gmail.com">email</a>
-      / <a href="https://www.linkedin.com/in/abdullah-mukri">linkedin</a>
-    </big>
+    <a href="https://abdullahtech.dev">portfolio</a> /
+    <a href="https://x.com/abdullah_twt23">x</a> /
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahmukri25@gmail.com">email</a> /
+    <a href="https://www.linkedin.com/in/abdullah-mukri">linkedin</a>
   </samp>
-</p>
+</h3>
 
 </div>
 
